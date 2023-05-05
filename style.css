@@ -1,3 +1,6 @@
+.ap{
+    filter: grayscale(60%);
+}
 .ee{
     font-size: 4px;
     font-family: Tahoma;
